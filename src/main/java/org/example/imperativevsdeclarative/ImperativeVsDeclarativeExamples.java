@@ -1,4 +1,4 @@
-package org.example.ImperativeVsDeclarative;
+package org.example.imperativevsdeclarative;
 
 import java.util.ArrayList;
 import java.util.Arrays;
