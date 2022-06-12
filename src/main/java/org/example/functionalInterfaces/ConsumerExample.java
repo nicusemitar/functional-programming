@@ -27,6 +27,10 @@ public class ConsumerExample {
             if (student.getGradeLevel() > 3)
                 System.out.println(student.getName());
         });
+
+//        studentList.stream()
+//                .filter(student -> student.getGradeLevel() > 3)
+//                .forEach(student -> System.out.println(student.getName()));
     }
 
     public static void main(String[] args) {
